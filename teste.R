@@ -1,0 +1,2 @@
+print("chorei")
+print("amém")
