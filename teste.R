@@ -1,2 +1,0 @@
-print("chorei")
-print("amém")
